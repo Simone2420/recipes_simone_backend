@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+pydantic
+mysql-connector-python
+python-dotenv
+passlib[argon2]
+argon2-cffi
+SQLAlchemy
+SQLAlchemy-Utils
+cloudinary
+python-multipart
+fastapi-mail
+reportlab
