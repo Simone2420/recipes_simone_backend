@@ -1,9 +1,9 @@
 from dataclasses import dataclass
 
+
 @dataclass
-class Permission:
+class Ingredient:
     id: int
     name: str
-    description: str
-    is_active: bool = True
-   
+    recipe_id: int
+

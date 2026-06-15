@@ -1,9 +1,8 @@
 from dataclasses import dataclass
 
+
 @dataclass
-class Permission:
+class Difficulty:
     id: int
     name: str
-    description: str
-    is_active: bool = True
-   
+
