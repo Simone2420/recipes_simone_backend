@@ -1,12 +1,15 @@
+alembic
 fastapi
 uvicorn
 pydantic
+pydantic-settings
 mysql-connector-python
 python-dotenv
 passlib[argon2]
 argon2-cffi
 SQLAlchemy
 SQLAlchemy-Utils
+python-jose[cryptography]
 cloudinary
 python-multipart
 fastapi-mail
